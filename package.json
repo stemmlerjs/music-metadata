@@ -13,12 +13,20 @@
     "picture"
   ],
   "author": "stemmlerjs <khalilstemmer@gmail.com> (https://github.com/stemmlerjs)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "promise": "^7.1.1",
     "request": "^2.79.0"
   },
   "devDependencies": {
     "mocha": "^3.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stemmlerjs/music-metadata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stemmlerjs/music-metadata/issues"
+  },
+  "homepage": "https://github.com/stemmlerjs/music-metadata#readme"
 }
