@@ -92,7 +92,7 @@ module.exports = {
             }
 
             resolve({
-              artist: response.body.name,
+              artist: response.artist.name,
               artwork: artistArtwork,
               bio: response.artist.bio.content,
               tags: tags
